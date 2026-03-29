@@ -1,0 +1,4 @@
+{
+    "lldb-dap.executable-path": "/usr/lib/llvm-18/bin/lldb-dap",
+    "lldb-dap.disableASLR": false
+}
